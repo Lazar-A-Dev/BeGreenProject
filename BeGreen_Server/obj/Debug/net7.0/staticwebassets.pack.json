@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\Hillside-kosmaj-20.jpg",
+      "PackagePath": "staticwebassets\\Images\\Hillside-kosmaj-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\Webp.net-resizeimage-1-1920x2880.jpg",
+      "PackagePath": "staticwebassets\\Images\\Webp.net-resizeimage-1-1920x2880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\Webp.net-resizeimage-2-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\Webp.net-resizeimage-2-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\blackwood-kucica-sa-bazenom-1-1-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\blackwood-kucica-sa-bazenom-1-1-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\blackwood-kucica-sa-bazenom-12-1-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\blackwood-kucica-sa-bazenom-12-1-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\blackwood-kucica-sa-bazenom-19-1-1920x1439.jpg",
+      "PackagePath": "staticwebassets\\Images\\blackwood-kucica-sa-bazenom-19-1-1920x1439.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\blackwood-vikendica-2-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\blackwood-vikendica-2-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\greenville-1-scaled.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenville-1-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\greenville-2-scaled.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenville-2-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\greenville-27-scaled.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenville-27-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\greenville-4-scaled.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenville-4-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\greenville-6-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\greenville-6-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\hillside-kosmaj-18.jpeg",
+      "PackagePath": "staticwebassets\\Images\\hillside-kosmaj-18.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\hillside-kosmaj-2-1920x2560.jpeg",
+      "PackagePath": "staticwebassets\\Images\\hillside-kosmaj-2-1920x2560.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\hillside-kosmaj-vila-5-1920x1440.jpg",
+      "PackagePath": "staticwebassets\\Images\\hillside-kosmaj-vila-5-1920x1440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\hillside-kosmaj.jpeg",
+      "PackagePath": "staticwebassets\\Images\\hillside-kosmaj.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\image00002-1920x1440.jpeg",
+      "PackagePath": "staticwebassets\\Images\\image00002-1920x1440.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\image00006.jpeg",
+      "PackagePath": "staticwebassets\\Images\\image00006.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\image00009.jpeg",
+      "PackagePath": "staticwebassets\\Images\\image00009.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\image00010.jpeg",
+      "PackagePath": "staticwebassets\\Images\\image00010.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\image00025-1920x1440.jpeg",
+      "PackagePath": "staticwebassets\\Images\\image00025-1920x1440.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\katun-obrenovac-vikendica-10-1920x1440.jpg",
+      "PackagePath": "staticwebassets\\Images\\katun-obrenovac-vikendica-10-1920x1440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\katun-obrenovac-vikendica-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\katun-obrenovac-vikendica-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\katun-obrenovac-vikendica-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\katun-obrenovac-vikendica-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\katun-obrenovac-vikendica-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\katun-obrenovac-vikendica-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\katun-obrenovac-vikendica-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\katun-obrenovac-vikendica-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\katun-obrenovac-vikendica-7-1920x1281.jpg",
+      "PackagePath": "staticwebassets\\Images\\katun-obrenovac-vikendica-7-1920x1281.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\katun-obrenovac-vikendica-8-1920x932.jpg",
+      "PackagePath": "staticwebassets\\Images\\katun-obrenovac-vikendica-8-1920x932.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\srebrne-jele-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\srebrne-jele-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\srebrne-jele-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\srebrne-jele-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\srebrne-jele-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\srebrne-jele-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\srebrne-jele-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\srebrne-jele-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\srebrne-jele-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\srebrne-jele-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\srebrne-jele-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\srebrne-jele-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\srebrne-jele-8.jpg",
+      "PackagePath": "staticwebassets\\Images\\srebrne-jele-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\sumska-vila-lipovica-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\sumska-vila-lipovica-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\sumska-vila-lipovica-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\sumska-vila-lipovica-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\sumska-vila-lipovica-26.jpeg",
+      "PackagePath": "staticwebassets\\Images\\sumska-vila-lipovica-26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\sumska-vila-lipovica-27.jpeg",
+      "PackagePath": "staticwebassets\\Images\\sumska-vila-lipovica-27.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\sumska-vila-lipovica-3-1920x1280.jpeg",
+      "PackagePath": "staticwebassets\\Images\\sumska-vila-lipovica-3-1920x1280.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\tilia-houses-kosmaj-13-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\tilia-houses-kosmaj-13-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\tilia-houses-kosmaj-3-1920x1078.jpg",
+      "PackagePath": "staticwebassets\\Images\\tilia-houses-kosmaj-3-1920x1078.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\tilia-houses-kosmaj-5-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\tilia-houses-kosmaj-5-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\tilia-houses-kosmaj-9-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\tilia-houses-kosmaj-9-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-kopaonik-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-kopaonik-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-kopaonik-11.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-kopaonik-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-kopaonik-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-kopaonik-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-plezir-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-plezir-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-plezir-10.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-plezir-10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-plezir-11.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-plezir-11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-plezir-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-plezir-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-plezir-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-plezir-4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-zvornicko-jezero-14-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-zvornicko-jezero-14-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-zvornicko-jezero-20-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-zvornicko-jezero-20-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-zvornicko-jezero-26-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-zvornicko-jezero-26-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-zvornicko-jezero-34-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-zvornicko-jezero-34-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vikendica-zvornicko-jezero-5-1920x2880.jpg",
+      "PackagePath": "staticwebassets\\Images\\vikendica-zvornicko-jezero-5-1920x2880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-1.png",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-10.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-11.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-15.png",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-3.png",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-ariana-beograd-iznajmljivanje-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-ariana-beograd-iznajmljivanje-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-galerija-1-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-galerija-1-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-galerija-15-1920x1440.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-galerija-15-1920x1440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-galerija-20-1920x1549.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-galerija-20-1920x1549.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-galerija-21-1920x1440.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-galerija-21-1920x1440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-galerija-24.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-galerija-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-galerija-5-1920x1280.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-galerija-5-1920x1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-karantanija-avala-1-1920x1080.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vila-karantanija-avala-1-1920x1080.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-karantanija-avala-11-1920x2560.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vila-karantanija-avala-11-1920x2560.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-karantanija-avala-14-1920x2560.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vila-karantanija-avala-14-1920x2560.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-karantanija-avala-17-1920x2560.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vila-karantanija-avala-17-1920x2560.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-karantanija-avala-19-1920x1080.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vila-karantanija-avala-19-1920x1080.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-krantanija-avaca-dnevna-soba-1920x1440.jpeg",
+      "PackagePath": "staticwebassets\\Images\\vila-krantanija-avaca-dnevna-soba-1920x1440.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-valeria-novi-sad-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-valeria-novi-sad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-valeria-novi-sad-12.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-valeria-novi-sad-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-valeria-novi-sad-20-1920x1440.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-valeria-novi-sad-20-1920x1440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-valeria-novi-sad-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-valeria-novi-sad-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-valeria-novi-sad-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-valeria-novi-sad-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lazar\\Desktop\\Bitbucket\\si.23.30.begreen\\Aplikacija\\BeGreen_Server\\wwwroot\\Images\\vila-valeria-novi-sad-8.jpg",
+      "PackagePath": "staticwebassets\\Images\\vila-valeria-novi-sad-8.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BeGreen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BeGreen.props",
+      "PackagePath": "build\\BeGreen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BeGreen.props",
+      "PackagePath": "buildMultiTargeting\\BeGreen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BeGreen.props",
+      "PackagePath": "buildTransitive\\BeGreen.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
